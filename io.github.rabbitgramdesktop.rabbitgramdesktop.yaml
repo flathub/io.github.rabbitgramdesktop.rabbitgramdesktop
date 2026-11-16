@@ -361,6 +361,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/rabbitgramdesktop/rabbitgramdesktop.git
-        commit: 63bffb5df32dabbd9130ba82892b5c51b089df75
+        commit: 4a0faa02afdf588dd2c8d9d15ecfb23f609c596d
     cleanup:
       - /share/icons/hicolor/512x512@2
