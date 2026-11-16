@@ -19,7 +19,6 @@ finish-args:
   - --talk-name=org.ayatana.indicator.application
   - --talk-name=org.sigxcpu.Feedback
   - --filesystem=xdg-download:rw
-  - --filesystem=xdg-data/icons:create
   - --unset-env=QT_PLUGIN_PATH
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.rust-stable
